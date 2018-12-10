@@ -14,9 +14,14 @@
 
 ## Links/SnapShots
 
-Table data of all items
+- Table data of all items
+
 ![Table Data](img/BamazonTable.png "Table Data")
-First prompt and results of successfull selection
+
+- First prompt and results of successfull selection
+
 ![First Prompt](img/BamazonPrompt.png "First Prompt")
-Prompt when user request quantity insufficient
+
+- Prompt when user request quantity insufficient
+
 ![Out of Stock Prompt](img/BamazonPrompt2.png "Out of Stock")
